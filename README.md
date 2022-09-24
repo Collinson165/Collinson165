@@ -38,9 +38,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/collinson165/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt='Ossys streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codingossy28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=Collinson165&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 </p>
                                                                                       
 [![GitHub Streak](https://streak-stats.demolab.com?user=Collinson165&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)                                                                                 
