@@ -43,7 +43,7 @@
     </a>
 </p>
                                                                                       
- [![GitHub Streak](https://streak-stats.demolab.com/?user=collinson165)](https://git.io/streak-stats)                                                                                     
+[![GitHub Streak](https://streak-stats.demolab.com?user=Collinson165&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)                                                                                 
 
 ## 📊 My Github Stats
 
