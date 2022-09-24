@@ -42,6 +42,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt='Ossys streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codingossy28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+                                                                                      
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=collinson165)](https://git.io/streak-stats)                                                                                     
 
 ## 📊 My Github Stats
 
