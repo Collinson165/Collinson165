@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Junior Developer roles or Partnership with other young developers**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://collins-oga.netlify.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://codebro.netlify.app)**
 
 - 📫 How to reach me **collinsoga2@gmail.com**
 
