@@ -1,12 +1,12 @@
 <p align="center"> <a href="#" ><img  width="50%" height="auto" src="https://imgur.com/SPbQrFv.jpg" height="175px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Collinson</h1>
-<h3 align="center">I'm a passionate Front End Developer</h3>
+<h3 align="center">I'm a passionate Front End and Django Developer</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working with React JS/ Next JS, Tailwind CSS, AOS, anime.js to name a few
+- 🔭 I’m currently working with React JS/ Next JS,Django, Tailwind CSS, AOS, anime.js to name a few
 
 - 🌱 I’m currently learning **more of React, ContextAPI, Firebase**
 
